@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.defi.st.wallet",
+      "sha256_cert_fingerprints": [
+        "B2:7D:5C:8C:93:65:E5:8A:A1:98:EC:21:28:02:DD:38:4A:47:93:CE:1F:FC:AD:18:A1:DF:4D:BC:5B:54:62:DC"
+      ]
+    }
+  }
+]
