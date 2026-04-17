@@ -12,7 +12,9 @@
   },
   "webcredentials": {
     "apps": [
-      "8LPM4995FY.com.defi.wallet"
+      "8LPM4995FY.com.defi.wallet",
+      "3Y7F5G6VCM.com.defi.wallet.enterprise",
+      "3Y7F5G6VCM.com.defi.stg.wallet.enterprise"
     ]
   }
 }
